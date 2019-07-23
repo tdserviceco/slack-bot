@@ -1,0 +1,22 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdserviceco/slack-bot.git"
+  },
+  "author": "Tommy Danielsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdserviceco/slack-bot/issues"
+  },
+  "homepage": "https://github.com/tdserviceco/slack-bot#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
